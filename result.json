@@ -1,0 +1,202 @@
+{
+  "id": "bocchi_the_rock",
+  "name": "孤独摇滚",
+  "faces": [
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/000_grinning_squinting_face.webm"
+    },
+    {
+      "id": "sad_but_relieved_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/001_sad_but_relieved_face.webm"
+    },
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/002_grinning_squinting_face.webm"
+    },
+    {
+      "id": "exploding_head",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/003_exploding_head.webm"
+    },
+    {
+      "id": "persevering_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/004_persevering_face.webm"
+    },
+    {
+      "id": "confounded_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/005_confounded_face.webm"
+    },
+    {
+      "id": "face_with_crossed",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/006_face_with_crossed-out_eyes.webm"
+    },
+    {
+      "id": "fearful_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/007_fearful_face.webm"
+    },
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/008_grinning_squinting_face.webm"
+    },
+    {
+      "id": "smiling_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/009_smiling_face.webm"
+    },
+    {
+      "id": "smiling_face_with_hearts",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/010_smiling_face_with_hearts.webm"
+    },
+    {
+      "id": "smiling_face_with_open_hands",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/011_smiling_face_with_open_hands.webm"
+    },
+    {
+      "id": "expressionless_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/012_expressionless_face.webm"
+    },
+    {
+      "id": "rice_ball",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/013_rice_ball.webm"
+    },
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/014_grinning_squinting_face.webm"
+    },
+    {
+      "id": "star",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/015_star-struck.webm"
+    },
+    {
+      "id": "loudly_crying_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/016_loudly_crying_face.webm"
+    },
+    {
+      "id": "dotted_line_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/017_dotted_line_face.webm"
+    },
+    {
+      "id": "folded_hands",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/018_folded_hands.webm"
+    },
+    {
+      "id": "face_with_spiral_eyes",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/019_face_with_spiral_eyes.webm"
+    },
+    {
+      "id": "fearful_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/020_fearful_face.webm"
+    },
+    {
+      "id": "face_screaming_in_fear",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/021_face_screaming_in_fear.webm"
+    },
+    {
+      "id": "flushed_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/022_flushed_face.webm"
+    },
+    {
+      "id": "hot_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/023_hot_face.webm"
+    },
+    {
+      "id": "melting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/024_melting_face.webm"
+    },
+    {
+      "id": "hot_beverage",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/025_hot_beverage.webm"
+    },
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/026_grinning_squinting_face.webm"
+    },
+    {
+      "id": "exclamation_question_mark",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/027_exclamation_question_mark.webm"
+    },
+    {
+      "id": "tired_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/028_tired_face.webm"
+    },
+    {
+      "id": "smiling_face_with_halo",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/029_smiling_face_with_halo.webm"
+    },
+    {
+      "id": "folded_hands",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/030_folded_hands.webm"
+    },
+    {
+      "id": "folded_hands",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/031_folded_hands.webm"
+    },
+    {
+      "id": "zany_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/032_zany_face.webm"
+    },
+    {
+      "id": "fearful_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/033_fearful_face.webm"
+    },
+    {
+      "id": "face_screaming_in_fear",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/034_face_screaming_in_fear.webm"
+    },
+    {
+      "id": "grinning_squinting_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/035_grinning_squinting_face.webm"
+    },
+    {
+      "id": "grinning_face_with_sweat",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/036_grinning_face_with_sweat.webm"
+    },
+    {
+      "id": "thinking_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/037_thinking_face.webm"
+    },
+    {
+      "id": "face_with_tears_of_joy",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/038_face_with_tears_of_joy.webm"
+    },
+    {
+      "id": "exploding_head",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/039_exploding_head.webm"
+    },
+    {
+      "id": "downcast_face_with_sweat",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/040_downcast_face_with_sweat.webm"
+    },
+    {
+      "id": "face_screaming_in_fear",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/041_face_screaming_in_fear.webm"
+    },
+    {
+      "id": "beaming_face_with_smiling_eyes",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/042_beaming_face_with_smiling_eyes.webm"
+    },
+    {
+      "id": "anxious_face_with_sweat",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/043_anxious_face_with_sweat.webm"
+    },
+    {
+      "id": "grinning_face_with_sweat",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/044_grinning_face_with_sweat.webm"
+    },
+    {
+      "id": "waving_hand",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/045_waving_hand.webm"
+    },
+    {
+      "id": "anxious_face_with_sweat",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/046_anxious_face_with_sweat.webm"
+    },
+    {
+      "id": "dog_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/047_dog_face.webm"
+    },
+    {
+      "id": "fearful_face",
+      "url": "https://cdn.jsdelivr.net/gh/KotoriK/048_fearful_face.webm"
+    }
+  ]
+}
